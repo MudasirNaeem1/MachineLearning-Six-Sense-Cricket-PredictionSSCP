@@ -179,11 +179,11 @@ numpy>=1.21.0
 <div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; border-left: 5px solid #28a745;">
 
 ### 🏆 **Perfect for:**
-- 🎮 **Fantasy Cricket**: Make informed team selections
-- 📺 **Match Analysis**: Enhanced cricket commentary insights  
-- 🎲 **Sports Prediction**: Data-driven betting decisions
-- 📊 **Cricket Analytics**: Professional team strategy planning
-- 🏆  **T20 World Cup**: Tournament winner predictions
+-  **Fantasy Cricket**: Make informed team selections
+-  **Match Analysis**: Enhanced cricket commentary insights  
+-  **Sports Prediction**: Data-driven betting decisions
+-  **Cricket Analytics**: Professional team strategy planning
+-   **T20 World Cup**: Tournament winner predictions
 
 </div>
 
@@ -215,7 +215,7 @@ graph TD
 
 ## 🏆 Project Achievements
 
-<div align="center">
+<div align="left">
 
 ### 🌟 **Key Accomplishments**
 - ✅ **96% Prediction Accuracy** - Industry-leading performance
@@ -230,7 +230,7 @@ graph TD
 
 ## 👨‍💻 Developer Info
 
-<div align="center">
+<div align="left">
 
 **🎓 Developer**: MUDASIR  
 **🆔 Student ID**: k22-8732  
@@ -244,5 +244,6 @@ graph TD
   Interested in educational AI research? ⭐ **Star this repository!**
   
   Have questions about the implementation? 💭 **Let's discuss!**
-  
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MudasirNaeem1.MachineLearning-Six-Sense-Cricket-PredictionSSCP)
+
 </div>
