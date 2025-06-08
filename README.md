@@ -150,14 +150,15 @@ It combines cutting-edge machine learning with intuitive design to deliver light
 
 ```bash
 # Clone the repository
-git clone https://github.com/mudasir/turbotracer-cricket-prediction.git
-cd turbotracer-cricket-prediction
+git clone <https://github.com/MudasirNaeem1/MachineLearning-Six-Sense-Cricket-PredictionSSCP.git>
+cd Six-Sense-Cricket-PredictionSSCP
 
 # Install requirements
 pip install -r requirements.txt
 
 # Run the application
-python turbotracer.py
+SIX-SENSE-CRICKET-PREDICTIONS-(SSCP).ipynb
+(using Jupyter Notebook or Google Colab)
 ```
 
 ### 🔧 Requirements
@@ -169,7 +170,6 @@ matplotlib>=3.5.0
 customtkinter>=5.0.0
 scikit-learn>=1.1.0
 numpy>=1.21.0
-pillow>=9.0.0
 ```
 
 ---
@@ -183,7 +183,7 @@ pillow>=9.0.0
 - 📺 **Match Analysis**: Enhanced cricket commentary insights  
 - 🎲 **Sports Prediction**: Data-driven betting decisions
 - 📊 **Cricket Analytics**: Professional team strategy planning
-- 🏏 **T20 World Cup**: Tournament winner predictions
+- 🏆  **T20 World Cup**: Tournament winner predictions
 
 </div>
 
@@ -191,16 +191,16 @@ pillow>=9.0.0
 
 ## 🔮 Six Sense Technology
 
-### 🧠 **What makes it "Six Sense"?**
+### **What makes it "Six Sense"?**
 
 ```mermaid
 graph TD
-    A[🏏 Historical Data] --> B[🧠 AI Analysis]
-    B --> C[🏟️ Venue Patterns]
-    C --> D[🪙 Toss Impact]
-    D --> E[⚡ TurboTracer Engine]
-    E --> F[🔮 Six Sense Prediction]
-    F --> G[🏆 96% Accuracy]
+    A[ Historical Data] --> B[ AI Analysis]
+    B --> C[ Venue Patterns]
+    C --> D[ Toss Impact]
+    D --> E[ TurboTracer Engine]
+    E --> F[ Six Sense Prediction]
+    F --> G[ 96% Accuracy]
 ```
 
 **The Six Senses:**
@@ -209,7 +209,7 @@ graph TD
 3. 👃 **Smell**: Detects winning opportunities
 4. 👅 **Taste**: Savors victory patterns
 5. ✋ **Touch**: Feels the pulse of the game
-6. 🧠 **Intuition**: AI-powered supernatural prediction
+6. 🌟 **Intuition**: AI-powered supernatural prediction
 
 ---
 
@@ -234,16 +234,15 @@ graph TD
 
 **🎓 Developer**: MUDASIR  
 **🆔 Student ID**: k22-8732  
-**🎯 Specialization**: Machine Learning & Cricket Analytics  
+**🎯 Specialization**: Machine Learning, AI & Cricket Analytics  
 **💻 Tech Stack**: Python, ML, GUI Development  
 
 ---
 
-### 🌟 **96% Accuracy | Six Sense Technology | TurboTracer Speed**
+## 👤 Contribution
 
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️%20&%20Python-red?style=for-the-badge)
-![Cricket Lover](https://img.shields.io/badge/By-Cricket%20Lover-green?style=for-the-badge&logo=cricket)
-
-**🚀 Interesting Project for Cricket 🏏 Lovers 😉 🙂**
-
+  Interested in educational AI research? ⭐ **Star this repository!**
+  
+  Have questions about the implementation? 💭 **Let's discuss!**
+  
 </div>
