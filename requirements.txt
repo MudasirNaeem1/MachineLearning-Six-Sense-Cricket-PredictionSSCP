@@ -1,0 +1,6 @@
+# Core Libraries
+pandas>=1.5.0
+matplotlib>=3.5.0
+customtkinter>=5.0.0
+scikit-learn>=1.1.0
+numpy>=1.21.0
